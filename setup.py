@@ -35,7 +35,7 @@ setup(name='achallonge',
       packages=find_packages(),
       install_requires=requirements,
       extras_require={
-        'speed':  ['cchardet', 'aiodns']
+        'speed':  ['faust-cchardet', 'aiodns']
       },
 
       include_package_data=True,

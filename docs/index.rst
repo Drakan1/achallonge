@@ -32,7 +32,7 @@ Dependencies
 
 - python 3.5+
 - aiohttp
-    - cchardet
+    - faust-cchardet
     - aiodns
 
 

@@ -14,7 +14,7 @@ Modern library that is more than just a wrapper for the Challonge web API
 * `aiohttp`
 
 Optional:
- * `cchardet` faster replacement for chardet, as mentionned on the aiohttp page
+ * `faust-cchardet` faster replacement for chardet, as mentionned on the aiohttp page
  * `aiodns` for speeding up DNS resolving, highly recommended by aiohttp
 
 # Python version support
